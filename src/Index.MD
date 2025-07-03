@@ -1,5 +1,5 @@
-1. OOPS concepts thoery
-1.1 OOPS- Inheritence
+1. OOPS concepts thoery (basic of oop's , class, object,methods, constructors) Done - 3-july-2025
+1.1 OOPS- Inheritence(starting in 4-july-2025)
 1.2 OOPS- Encapsulation
 1.1 OOPS- Polymosprism
 1.1 OOPS- Abstraction
