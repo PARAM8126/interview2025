@@ -14,6 +14,18 @@
 |   -   | IS- A rela(INHERITANCE) |03-07-2025	 |  Done	  | 04-07-2025  |
 |   -   | HAS- A rela(ASSOCIATION)|03-07-2025	 |  Done	  | 04-07-2025  |
 |   -   | IS- A rela(DEPENDENCE)  |03-07-2025	 |  Done	  | 04-07-2025  |
+|  1.5  | Polymorphism            |05-07-2025	 |      	  |             |
+|  1.6  | Abstraction             |05-07-2025	 |          |             |
+
+
+
+
+
+
+
+
+
+
 
 -------------
 # August target
