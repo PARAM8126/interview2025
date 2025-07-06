@@ -19,7 +19,7 @@ class C extends A
 		System.out.println("i am in class C");
 	}
 }
-class Hierarchical
+ public class Hierarchical
 {
 	public static void main(String[] args)
 	{
