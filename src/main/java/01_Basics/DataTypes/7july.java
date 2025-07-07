@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
- public class SumTwoNumber
-{
-    public static void main(String[] args)
-{
+class Sum {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to our Calculator");
         System.out.print("Please enter first number: ");
