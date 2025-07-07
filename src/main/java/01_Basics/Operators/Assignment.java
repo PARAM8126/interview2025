@@ -1,5 +1,7 @@
-public class Assignment {
-    public static void main(String[] args) {
+public class Assignment 
+{
+    public static void main(String[] args) 
+    {
         int myInt = 12;
         System.out.println(myInt);
         int newInt = myInt;
