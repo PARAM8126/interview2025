@@ -17,12 +17,12 @@
 |  1.5  | Polymorphism            |05-07-2025	 |  Done	  |07-07-2025   |
 |  1.6  | Abstraction & Data hiding            |08-07-2025	 |  Done	  |08-07-2025   |
 | 1.7     |Interface              |09-07-2025 |Done      |10-07-2025 |
-| ------|Encapsulation            |11-07-2025 -|Done      |11-07-2025 |
-| ------|This and Super keyword   |11-07-2025 -|  Done	  |11-07-2025 |
-| ------|Static variables and static blocks in Java|12-07-2025 |Done|13-07-2025 |
-| ------|Nested Classes           |11-07-2025 |Done       |13-07-2025 |
-| ------|Static Methods & Static Nested Class||11-07-2025 |Done       |13-07-2025 
-| ------|Packages                 |14-07-2025|running  |  15-07-2025|
+| 1.8    |Encapsulation            |11-07-2025 -|Done      |11-07-2025 |
+| 1.9    |This and Super keyword   |11-07-2025 -|  Done	  |11-07-2025 |
+| 1.10   |Static variables and static blocks in Java|12-07-2025 |Done|13-07-2025 |
+| 1.11   |Nested Classes           |11-07-2025 |Done       |13-07-2025 |
+| 1.12   |Static Methods & Static Nested Class|12-07-2025 |Done|13-07-2025 |
+| 1.13   |Packages                 |14-07-2025|running  |  15-07-2025|
 | ------|-------------------------|------------|----------|-------------|
 | ------|-------------------------|------------|----------|-------------|
 | ------|-------------------------|------------|----------|-------------|
