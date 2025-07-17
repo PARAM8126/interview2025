@@ -50,3 +50,4 @@ class AccountMain
 		System.out.println("Full Details : "+ob1.getAccno()+" : "+ob1.getAmount());
 	}
 }
+

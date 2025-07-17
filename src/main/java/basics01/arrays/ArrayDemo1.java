@@ -1,6 +1,5 @@
 
-package basic01.arrays;
-
+package basics01.arrays;
 
 public class ArrayDemo1
 {

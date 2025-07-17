@@ -1,16 +1,18 @@
-class Animal {
+package OOPs_2.Inheritance;
+
+class AnimalMultilevel1 {
     void eat() {
         System.out.println("Animal eats");
     }
 }
 
-class Dog extends Animal {
+class DogMultilevel1 extends AnimalMultilevel1 {
     void bark() {
         System.out.println("Dog barks");
     }
 }
 
-class Puppy extends Dog {
+class PuppyMultilevel1 extends DogMultilevel1 {
     void weep() {
         System.out.println("Puppy weeps");
     }
@@ -21,7 +23,7 @@ class Puppy extends Dog {
      {
          public static void main(String[] args)
          {
-             Puppy P = new Puppy();
+             PuppyMultilevel1 P = new PuppyMultilevel1();
              P.eat();
              P.bark();
              P.weep();
