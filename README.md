@@ -1,23 +1,19 @@
+-----------------------------
 # August target
 
-# update all the topics here
-
 |S No.|	Topic                         |Start Date|Status   | End Date | classes|
-| 1   |AWT & Swing in Java            |01-08-2025|Pending  |01-08-2025| 1      |
-|  1.1|Events in AWT                  |01-08-2025|Pending  |01-08-2025| 1      | 
+|-----|-------------------------------|----------|---------|----------|--------|
 |  2  | exception handling            |02-08-2025|Pending  |04-08-2025| 5      | 
-|  3  |Multithreading                 |05-08-2025|Pending  |08-08-2025| 6      |  
-|  4  |Synchronization                |08-08-2025|Pending  |10-08-2025| 5      | 
+|  2  | exception handling            |02-08-2025|Pending  |04-08-2025| 5      | 
+|  3  | Multithreading                |05-08-2025|Pending  |08-08-2025| 6      |  
+|  4  | Synchronization               |08-08-2025|Pending  |10-08-2025| 5      | 
 |  5  | input output and serialization|11-08-2025|Pending  |13-08-2025| 6      |  
-|  6  |Socket Programming & RMI       |14-08-2025|Pending  |15-08-2025| 3      | 
 |  7  |Collection Framework &Generics |15-08-2025|Pending  |22-08-2025| 20     | 
 |  8  | java features 8               |23-08-2025|Pending  |25-08-2025| 6      | 
-|  9  |  JDBC                         |26-08-2025|Pending  |28-08-2025| 5      | 
-|     |                               |01-08-2025|Pending  |01-08-2025| 1      | 
+|  9  | JDBC                          |26-08-2025|Pending  |28-08-2025| 5      | 
+|-----|-------------------------------|----------|---------|----------|--------|
 
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------
 # July target
 
 | S No. |	Topic                   |	Start Date |	Status	| End Date    |
