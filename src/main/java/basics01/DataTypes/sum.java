@@ -1,3 +1,4 @@
+package basics01.DataTypes;
 import java.util.Scanner;
 
 class Sum {
