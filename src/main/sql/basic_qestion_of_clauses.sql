@@ -22,7 +22,7 @@ SELECT * FROM products ORDER BY price ASC;
 --  Q6. Show only the first 3 products from the table.
 SELECT * FROM products LIMIT 3;
 
---  Q7. Show product name as "Item\_Name" and price as "Item\_Price".
+--  Q7. Show product name as "Item_Name" and price as "Item_Price".
 SELECT name AS Item_Name, price AS Item_Price FROM products;
 
 --  Q8. Show all the unique categories from the products table.
