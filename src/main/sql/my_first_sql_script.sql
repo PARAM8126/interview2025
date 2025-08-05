@@ -12,6 +12,7 @@ city varchar(100) NOT NULL
 
  INSERT INTO members (id, name, email, gender, date_of_birth, mobile_number, city, marriage)
  VALUES 
+ ('1', 'param', 'paramsharmaup@gmail.com', 'Male', '2000-09-08', '8126970526', 'bsr', 0),
 ('2', 'shivam', 'shivamsharmaup@gmail.com', 'Male', '1996-06-06', '9650326246', 'bsr', 0),
   ('3', 'sunil', 'sunilsharmaup@gmail.com', 'Male', '1980-06-26', '9818328253', 'bsr', 1),
 ('4', 'suman', 'sumansharmaup@gmail.com', 'female', '1985-11-14', '8126380526', 'bsr', 1); 
